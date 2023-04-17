@@ -1,0 +1,24 @@
+tailscale_firwall_settings
+
+tailscale ports
+TCP_80
+TCP_443
+UDP_3478
+UDP_41641
+
+tailscale relay servers
+derp1-all.tailscale.com
+derp2-all.tailscale.com
+derp9-all.tailscale.com
+derp10-all.tailscale.com
+derp12-all.tailscale.com
+derp13-all.tailscale.com
+derp16-all.tailscale.com
+derp17-all.tailscale.com
+derp24-all.tailscale.com
+
+tailscale management servers
+login.tailscale.com
+controlplane.tailscale.com
+log.tailscale.com
+log.tailscale.io
